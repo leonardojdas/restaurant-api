@@ -1,2 +1,2 @@
 # restaurant-api
-An API for an imaginary restaurant that accepts CRUD commands and standard HTTP status code
+A suite test for an API of an imaginary restaurant that accepts CRUD commands and standard HTTP status code in the API response, using an instance of MenuItem class as the data for API requests and responses.
